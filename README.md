@@ -1,3 +1,10 @@
+# Docker recipe for [mongo](https://github.com/mongodb/mongo)
+
+See the global picture how this container interacts with other components to run Dogeparty:
+
+[Global Component Overview](http://www.inkpad.io/1GMXYwxl4Q)
+
+
 ## Instantiate Data Container
 
 ### Mainnet
