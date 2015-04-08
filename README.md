@@ -33,3 +33,8 @@ See the global picture how this container interacts with other components to run
 
     mongod
 
+
+## Backup
+
+    mongodump  --db counterblockd --out dogeblockd-$(date +%y-%m-%d-%H:%M)
+
